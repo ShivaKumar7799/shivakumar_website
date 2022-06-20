@@ -54,4 +54,11 @@ img{
     text-align: center;
     font-size: 14px;
   }
+  .link_heading{
+    font-size: 14px;
+  }
+  img{
+    width: 130px;
+    height: 80px;
+  }
 }
